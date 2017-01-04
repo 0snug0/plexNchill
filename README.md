@@ -8,6 +8,8 @@ Conf file is commented. Make changes if necessary.
 ## plexNchill.md
 Markdown file, either modify the `domain.com` in the file, and compile to html, or by default the plexNchill.conf will rewrite `domain.com` to the host header that is being used.
 
+Easiest way to compile md to html is to use `CMD+B` in sublime text.
+
 ## Service Config Update
 ### Sonarr
 In order for the NGINX config to work, go to the `settings > general` and modify the URL base to `/sonarr`
