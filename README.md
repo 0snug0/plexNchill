@@ -17,3 +17,6 @@ In order for the NGINX config to work, go to the `settings > general` and modify
 ### CouchPotato
 In order for the NGINX config to work, go to the `settings > general` on the top right, switch to `Show Advanced` and modify the URL base to `/couchpotato`
 
+## Todo
+1. Add other services to config (SickBeard, Transmission) 
+2. Add authentication layer to open up services to the internet.
