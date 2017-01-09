@@ -21,3 +21,4 @@ In order for the NGINX config to work, go to the `settings > general` on the top
 1. Add other services to config (SickBeard, Transmission) 
 2. Add authentication layer to open up services to the internet.
 3. Add SSL config, and easy setup guide with LetsEncrypt
+
